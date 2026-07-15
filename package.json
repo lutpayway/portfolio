@@ -1,8 +1,8 @@
 {
   "name": "lutpayportfolio",
   "version": "1.0.0",
-  "type": "module",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@google/genai": "^1.14.0"
   }
